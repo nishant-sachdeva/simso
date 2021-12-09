@@ -34,8 +34,8 @@ def simulate_run(scheduler, taskSet):
     
     # Add a scheduler:
     # configuration.scheduler_info.filename = "../simso/schedulers/RM.py"
-    # configuration.scheduler_info.clas = schedulerDict[scheduler]
-    configuration.scheduler_info.clas = "simso.schedulers.P_RM"
+    configuration.scheduler_info.clas = schedulerDict[scheduler]
+    # configuration.scheduler_info.clas = "simso.schedulers.P_RM"
 
     # Check the config before trying to run it.
     configuration.check_all()
@@ -45,5 +45,8 @@ def simulate_run(scheduler, taskSet):
 
     # Execute the simulation.
     model.run_model()
+    for log in model.logs:
+        print(log)
+        
     abortedJobs = sum(model.results.tasks[task].exceeded_count for task in model.task_list)
     return abortedJobs
