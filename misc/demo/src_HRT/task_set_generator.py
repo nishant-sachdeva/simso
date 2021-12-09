@@ -1,5 +1,18 @@
 import simso.generator.task_generator as task_generator
 
+'''
+Following are the requirements for this task generator
+
+1. GRMS - OPT :: No task should fail a deadline in the time range LCM(Ti) + max(Ti) seconds
+2. GRMS - A :: Only select tasks that satisfy the bound given in the paper
+3. FF-RB :: Take any generic first fit algorithm. // 
+    The issue here is that we don't know what bound is being used for this algo//
+    So performance comparisons seem to be unfair
+
+'''
+
+
+
 def generateTaskSet(numberOfTaskSets):
     # choice here is between the inbuit schedulers and manual figures
     numberOfTasks = 10
