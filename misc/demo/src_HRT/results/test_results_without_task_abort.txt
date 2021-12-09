@@ -1,0 +1,129 @@
+0
+simso.schedulers.RM 0.3333333333333333
+simso.schedulers.LB_P_EDF 0.25
+simso.schedulers.P_EDF2 0.034482758620689655
+simso.schedulers.EDHS 0.034482758620689655
+simso.schedulers.P_EDF 0.034482758620689655
+1
+simso.schedulers.RM 0.3333333333333333
+simso.schedulers.LB_P_EDF 0.3333333333333333
+simso.schedulers.P_EDF2 0.034482758620689655
+simso.schedulers.EDHS 0.034482758620689655
+simso.schedulers.P_EDF 0.034482758620689655
+2
+simso.schedulers.RM 0.2
+simso.schedulers.LB_P_EDF 0.16666666666666666
+simso.schedulers.P_EDF2 0.034482758620689655
+simso.schedulers.EDHS 0.034482758620689655
+simso.schedulers.P_EDF 0.034482758620689655
+3
+simso.schedulers.RM 0.2
+simso.schedulers.LB_P_EDF 0.125
+simso.schedulers.P_EDF2 0.034482758620689655
+simso.schedulers.EDHS 0.034482758620689655
+simso.schedulers.P_EDF 0.034482758620689655
+4
+simso.schedulers.RM 0.2
+simso.schedulers.LB_P_EDF 0.2
+simso.schedulers.P_EDF2 0.034482758620689655
+simso.schedulers.EDHS 0.034482758620689655
+simso.schedulers.P_EDF 0.034482758620689655
+5
+simso.schedulers.RM 0.25
+simso.schedulers.LB_P_EDF 0.5
+simso.schedulers.P_EDF2 0.034482758620689655
+simso.schedulers.EDHS 0.034482758620689655
+simso.schedulers.P_EDF 0.034482758620689655
+6
+simso.schedulers.RM 0.25
+simso.schedulers.LB_P_EDF 0.2
+simso.schedulers.P_EDF2 0.034482758620689655
+simso.schedulers.EDHS 0.034482758620689655
+simso.schedulers.P_EDF 0.034482758620689655
+7
+simso.schedulers.RM 0.16666666666666666
+simso.schedulers.LB_P_EDF 0.3333333333333333
+simso.schedulers.P_EDF2 0.034482758620689655
+simso.schedulers.EDHS 0.034482758620689655
+simso.schedulers.P_EDF 0.034482758620689655
+8
+simso.schedulers.RM 0.16666666666666666
+simso.schedulers.LB_P_EDF 0.125
+simso.schedulers.P_EDF2 0.034482758620689655
+simso.schedulers.EDHS 0.034482758620689655
+simso.schedulers.P_EDF 0.034482758620689655
+9
+simso.schedulers.RM 0.2
+simso.schedulers.LB_P_EDF 0.125
+simso.schedulers.P_EDF2 0.034482758620689655
+simso.schedulers.EDHS 0.034482758620689655
+simso.schedulers.P_EDF 0.034482758620689655
+10
+simso.schedulers.RM 0.125
+simso.schedulers.LB_P_EDF 0.2
+simso.schedulers.P_EDF2 0.034482758620689655
+simso.schedulers.EDHS 0.034482758620689655
+simso.schedulers.P_EDF 0.034482758620689655
+11
+simso.schedulers.RM 0.2
+simso.schedulers.LB_P_EDF 0.14285714285714285
+simso.schedulers.P_EDF2 0.034482758620689655
+simso.schedulers.EDHS 0.034482758620689655
+simso.schedulers.P_EDF 0.034482758620689655
+12
+simso.schedulers.RM 0.14285714285714285
+simso.schedulers.LB_P_EDF 0.2
+simso.schedulers.P_EDF2 0.034482758620689655
+simso.schedulers.EDHS 0.034482758620689655
+simso.schedulers.P_EDF 0.034482758620689655
+13
+simso.schedulers.RM 0.25
+simso.schedulers.LB_P_EDF 0.3333333333333333
+simso.schedulers.P_EDF2 0.034482758620689655
+simso.schedulers.EDHS 0.034482758620689655
+simso.schedulers.P_EDF 0.034482758620689655
+14
+simso.schedulers.RM 0.2
+simso.schedulers.LB_P_EDF 0.16666666666666666
+simso.schedulers.P_EDF2 0.034482758620689655
+simso.schedulers.EDHS 0.034482758620689655
+simso.schedulers.P_EDF 0.034482758620689655
+15
+simso.schedulers.RM 0.25
+simso.schedulers.LB_P_EDF 0.16666666666666666
+simso.schedulers.P_EDF2 0.034482758620689655
+simso.schedulers.EDHS 0.034482758620689655
+simso.schedulers.P_EDF 0.034482758620689655
+16
+simso.schedulers.RM 0.25
+simso.schedulers.LB_P_EDF 0.5
+simso.schedulers.P_EDF2 0.034482758620689655
+simso.schedulers.EDHS 0.034482758620689655
+simso.schedulers.P_EDF 0.034482758620689655
+17
+simso.schedulers.RM 0.14285714285714285
+simso.schedulers.LB_P_EDF 0.16666666666666666
+simso.schedulers.P_EDF2 0.034482758620689655
+simso.schedulers.EDHS 0.034482758620689655
+simso.schedulers.P_EDF 0.034482758620689655
+18
+simso.schedulers.RM 0.16666666666666666
+simso.schedulers.LB_P_EDF 0.16666666666666666
+simso.schedulers.P_EDF2 0.034482758620689655
+simso.schedulers.EDHS 0.034482758620689655
+simso.schedulers.P_EDF 0.034482758620689655
+19
+simso.schedulers.RM 0.16666666666666666
+simso.schedulers.LB_P_EDF 0.14285714285714285
+simso.schedulers.P_EDF2 0.034482758620689655
+simso.schedulers.EDHS 0.034482758620689655
+simso.schedulers.P_EDF 0.034482758620689655
+
+
+Final Averages
+
+simso.schedulers.RM 0.20970238095238097
+simso.schedulers.LB_P_EDF 0.22720238095238102
+simso.schedulers.P_EDF2 0.034482758620689655
+simso.schedulers.EDHS 0.034482758620689655
+simso.schedulers.P_EDF 0.034482758620689655
